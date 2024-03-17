@@ -1,0 +1,1 @@
+export const increment = (val: number) => val + 1
